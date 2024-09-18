@@ -1,5 +1,3 @@
-
-<b:include name='settings-object'/>
 /*<![CDATA[*/
 function _3(e, t) {
     return _0(e - -629, t)
